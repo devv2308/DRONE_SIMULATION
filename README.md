@@ -3,15 +3,6 @@
 A real-time drone simulation controlled using **hand gestures** detected by **OpenCV** and **MediaPipe**. This project demonstrates how computer vision can be used as a natural user interface for controlling a virtual drone without a keyboard or joystick.
 ---
 
-## 📸 Demo
-
-> Add a GIF or screenshot here.
-
-```
-demo.gif
-```
-
----
 
 ## ✨ Features
 
