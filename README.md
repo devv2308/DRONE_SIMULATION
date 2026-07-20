@@ -31,7 +31,7 @@ A real-time drone simulation controlled using **hand gestures** detected by **Op
 
 ```
 Gesture-Controlled-Drone/
-│
+│__assets_\drone.png
 ├── main.py                # Main simulation
 ├── hand_tracking.py       # MediaPipe hand detection
 ├── gesture.py             # Gesture recognition logic
